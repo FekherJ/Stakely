@@ -1,5 +1,0 @@
-formatUnits converts the BigNumber into a readable string (formatted with 18 decimals), which is meant for displaying balances or amounts.
-parseUnits is used to convert a string into a BigNumber, which is required when passing values to transactions.
-
-
-
